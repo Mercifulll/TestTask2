@@ -1,0 +1,14 @@
+D:\ASP\Rider\Test\Task1\Task1\bin\Debug\net7.0\Task1.exe
+D:\ASP\Rider\Test\Task1\Task1\bin\Debug\net7.0\Task1.deps.json
+D:\ASP\Rider\Test\Task1\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+D:\ASP\Rider\Test\Task1\Task1\bin\Debug\net7.0\Task1.dll
+D:\ASP\Rider\Test\Task1\Task1\bin\Debug\net7.0\Task1.pdb
+D:\ASP\Rider\Test\Task1\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Rider\Test\Task1\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+D:\ASP\Rider\Test\Task1\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+D:\ASP\Rider\Test\Task1\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+D:\ASP\Rider\Test\Task1\Task1\obj\Debug\net7.0\Task1.dll
+D:\ASP\Rider\Test\Task1\Task1\obj\Debug\net7.0\refint\Task1.dll
+D:\ASP\Rider\Test\Task1\Task1\obj\Debug\net7.0\Task1.pdb
+D:\ASP\Rider\Test\Task1\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+D:\ASP\Rider\Test\Task1\Task1\obj\Debug\net7.0\ref\Task1.dll
